@@ -1,0 +1,14 @@
+.custom-navbar {
+    background-color: royalblue;
+    color: white;
+}
+
+a {
+    color: white;
+    margin-right: 8px;
+}
+
+a:hover {
+    color: white;
+    border-bottom: 1px solid white;
+}

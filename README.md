@@ -6,4 +6,3 @@ a simple dive into navigating inside a react app and using transitions between t
 
  - npm i
  - npm start --dev
-- 
