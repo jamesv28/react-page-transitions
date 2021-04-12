@@ -4,11 +4,24 @@
 }
 
 a {
-    color: white;
+    color: white !important;
     margin-right: 8px;
 }
 
 a:hover {
-    color: white;
+    color: white !important;
     border-bottom: 1px solid white;
+    text-decoration: none;
+}
+.card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 40%;
+    height: 40vh !important;
+    
+    margin-top: 20% !important;
 }

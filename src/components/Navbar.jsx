@@ -9,7 +9,6 @@ const Navbar = () => (
             <Link to="/two" className="nav-item">Page Two</Link>
             <Link to="/three" className="nav-item">Page Three</Link>
             <Link to="/four" className="nav-item">Page Four</Link>
-
         </div>
     </nav>
 )

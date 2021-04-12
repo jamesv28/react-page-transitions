@@ -1,8 +1,11 @@
 import React from 'react';
+import './components.css';
 
 const PageThree = () => (
-    <div>
-        Page Three
+    <div className="card-container">
+        <div className="card text-center">
+            This is page three
+        </div>
     </div>
 )
 

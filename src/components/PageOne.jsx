@@ -1,8 +1,10 @@
 import React from 'react';
 
 const PageOne = () => (
-    <div>
-        This is page one
+    <div className="card-container">
+        <div className="card text-center">
+            This is page one
+        </div>
     </div>
 )
 

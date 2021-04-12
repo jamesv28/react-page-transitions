@@ -1,11 +1,12 @@
 import React from 'react';
+import './components.css';
 
 const Home = () => (
-    <section>
-        <h1>
-            This is the Home Screen
-        </h1>
-    </section>
+    <div className="card-container">
+        <div className="card text-center">
+            This is the home page
+        </div>
+    </div>
 )
 
 export default Home;
